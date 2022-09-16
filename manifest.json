@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "Drawer",
+  "description": "Use this extension to save articles on the go. Save and Retrieve articles for later reading.",
+  "icons": {
+    "128": "assets/icons/32.png"
+  },
+  "action": {
+    "default_popup": "app/popup/popup.html"
+  },
+  "content_scripts": [
+    {
+      "run_at": "document_start",
+      "matches": ["<all_urls>"],
+      "js": ["app/src/content.js"]
+    }
+  ],
+  "background": {
+    "service_worker": "./background.js"
+  },
+  "permissions": ["contextMenus", "storage"],
+  "host_permissions": ["*://*/*"]
+}
