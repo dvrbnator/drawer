@@ -57,4 +57,5 @@ Your feedback is welcome.
 ## Acknowledgements
  - [Logo used: From Freepik](https://www.flaticon.com/free-icons/index)
  - [Readme Generated using readme.so](https://readme.so/)
+ - [Opensource idea 3 from CodingPage discord](https://discord.com/invite/m7GhgH6cdt)
 
