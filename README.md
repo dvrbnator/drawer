@@ -55,7 +55,7 @@ Your feedback is welcome.
 - And countless Stackoverflow
 
 ## Acknowledgements
+ - [Thank you Balachandar @CodingPage/YouAskWeBuild discord for providing this idea](https://discord.com/invite/m7GhgH6cdt)
  - [Logo used: From Freepik](https://www.flaticon.com/free-icons/index)
  - [Readme Generated using readme.so](https://readme.so/)
- - [Opensource idea 3 from CodingPage discord](https://discord.com/invite/m7GhgH6cdt)
 
